@@ -12,7 +12,7 @@ The document establishes authorship, ethical intent, and system boundaries for G
 
 📄 Download the White Paper:
 
-[GISA Global Integrity C.I.C. – White Paper (PDF)](https://github.com/lwoodlyn/gisa-global-integrity-white-paper/raw/main/GISA%20Global%20Integrity%20C.I.C.%20-%20White%20Paper.pdf)
+[GISA Global Integrity C.I.C. – White Paper (PDF)](https://github.com/lwoodlyn/gisa-global-integrity-white-paper/raw/main/GISA%20Global%20Integrity%20C.I.C.%20%E2%80%93%20White%20Paper.pdf)
 
 ---
 
