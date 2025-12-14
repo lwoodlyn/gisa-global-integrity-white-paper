@@ -1,6 +1,6 @@
-GISA Global Integrity CIC — White Paper
+GISA Global Integrity C.I.C. — White Paper
 
-This repository hosts the public white paper for GISA Global Integrity CIC, a global safety, accountability, and human protection framework.
+This repository hosts the public white paper for GISA Global Integrity C.I.C., a global safety, accountability, and human protection framework.
 
 The document establishes authorship, ethical intent, and system boundaries for GISA, including:
 
@@ -21,4 +21,4 @@ Notice:
 This publication establishes prior art and authorship.
 Technical implementation details are intentionally withheld.
 
-© Laura Woodlyn, GISA Global Integrity CIC. All rights reserved.
+© Laura Woodlyn, GISA Global Integrity C.I.C. All rights reserved.
